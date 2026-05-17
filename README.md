@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Carl 👋
 
-<!--
-**niuben/niuben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of TaoAI.
 
-Here are some ideas to get you started:
+Building the future of AI-native developer tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Projects
+
+### SkillsHub
+Enterprise-grade artifact management for:
+- Skills
+- Prompts
+- Agents
+
+Built by TaoAI.
+
+---
+
+## 🌏 Vision
+
+Bring Eastern philosophy into modern AI.
+
+---
+
+## 🛠 Tech Stack
+
+TypeScript · React · Node.js · LLM · Agents
+
+---
+
+## 📫 Connect
+
+GitHub: @niuben
